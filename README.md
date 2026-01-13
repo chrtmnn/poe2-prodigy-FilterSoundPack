@@ -1,8 +1,6 @@
 # The Prodigy FilterSoundPack for Path of Exile 2
 
-_**usable
-as [Module for Neversink's FilterBlade](https://www.filterblade.xyz/?profile=Wik%C3%BClicious%236054&saveState=XNZHG64CQQHYIM&isPreset=true&game=Poe2&preview=true)
-**_
+usable as [Module for Neversink's FilterBlade](https://www.filterblade.xyz/?profile=Wik%C3%BClicious%236054&saveState=XNZHG64CQQHYIM&isPreset=true&game=Poe2&preview=true)
 
 <p align="center"><img alt="/poe2-prodigy-FilterSoundPack" src="/poe2-prodigy-FilterSoundPack.png?raw=true" width="256"></p>
 
@@ -14,7 +12,7 @@ as [Module for Neversink's FilterBlade](https://www.filterblade.xyz/?profile=Wik
    `⯈ Assets` section.
 2. Run the installation script: `install.bat`.
 3. Add the associated [FilterBlade module
-   `poe2-prodigy-FilterSoundPack`](https://www.filterblade.xyz/?profile=Wik%C3%BClicious%236054&saveState=XNZHG64CQQHYIM&isPreset=true&game=Poe2&preview=true)
+   `poe2-prodigy-FilterSoundPack`](https://www.filterblade.xyz/?profile=Wik%C3%BClicious%236054&isPreset=true&game=Poe2&preview=true)
    when **creating** or **editing** your item filters.
 
 _Note:_ The installation script targets the default Path of Exile 2 directory
@@ -24,12 +22,14 @@ _Note:_ The installation script targets the default Path of Exile 2 directory
 
 ## Manual Installation
 
-1. Download and extract latest release
+1. Download and extract [latest release](https://github.com/chrtmnn/poe2-prodigy-FilterSoundPack/releases) from the
+   `⯈ Assets` section.
 2. Open your PoE2 (settings) folder
     - e.g.  `⊞ + R` > "%userprofile%\Documents\My Games\Path of Exile 2" > `Enter`
-3. Copy sound files of folder `assets` to `sfx/prdgy`.
-4. Now the files are located in the right place to be used with the FilterBlade
-   module [poe2-prodigy-FilterSoundPack](https://www.filterblade.xyz/?profile=Wik%C3%BClicious%236054&saveState=XNZHG64CQQHYIM&isPreset=true&game=Poe2&preview=true).
+3. Copy `sfx` folder into your PoE2 (settings) folder.
+3. Add the associated [FilterBlade module
+   `poe2-prodigy-FilterSoundPack`](https://www.filterblade.xyz/?profile=Wik%C3%BClicious%236054&isPreset=true&game=Poe2&preview=true)
+   when **creating** or **editing** your item filters.
 
 ---
 
