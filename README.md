@@ -28,9 +28,10 @@ as
 1. Open [www.FilterBlade.xyz](https://www.filterblade.xyz)
    in your web browser.
 2. Load an existing item filter or start creating a new one.
-3. Open the Modules dialog by clicking on the `MODULES` button on the filter overview site.
+3. Open the Modules dialog by clicking on the `MODULES` button on the filter overview site.<br />
    <img src="/assets/module-step3.png" width="384"/>
-4. Locate the module (e.g. by searching for "prodigy" in the `Public` section) and click on `Add` and `Apply` to enable it.
+4. Locate the module (e.g. by searching for "prodigy" in the `Public` section) and click on `Add` and `Apply` to enable
+   it.<br/>
    <img src="/assets/module-step4-5.png" width="384"/>
 5. Continue editing or save your filter as usual.
 6. Download or sync the updated filter for use in Path of Exile 2.
