@@ -1,13 +1,12 @@
 ![FilterBlade Module](https://img.shields.io/badge/FilterBlade-ready-brightgreen)
 ![Path of Exile 2](https://img.shields.io/badge/Path%20of%20Exile%202-Filter%20Sounds-purple)
-![Windows](https://img.shields.io/badge/platform-Windows-blue)
+![PC](https://img.shields.io/badge/Platform-PC-blue)
 
 # The Prodigy FilterSoundPack for Path of Exile 2
 
-_**🏷️ Ready to use
+🏷️ Ready to use
 as
-[module for Neversink's FilterBlade](https://www.filterblade.xyz/?profile=Wik%C3%BClicious%236054&saveState=XNZHG64CQQHYIM&isPreset=true&game=Poe2&preview=true)
-.**_
+[module for Neversink's FilterBlade](https://www.filterblade.xyz/?profile=Wik%C3%BClicious%236054&saveState=XNZHG64CQQHYIM&isPreset=true&game=Poe2&preview=true).
 
 <p align="center"><img alt="/poe2-prodigy-FilterSoundPack" src="/assets/poe2-prodigy-FilterSoundPack.png?raw=true" width="256"/></p>
 
@@ -20,8 +19,8 @@ as
    `▶ Assets` section.
 2. Run `install.bat`, or copy the `sfx` folder manually into your Path of Exile 2 settings directory (_default:_
    `%USERPROFILE%\Documents\My Games\Path of Exile 2`).
-3. Enable the associated [module
-   `poe2-prodigy-FilterSoundPack`](https://www.filterblade.xyz/?profile=Wik%C3%BClicious%236054&saveState=XNZHG64CQQHYIM&isPreset=true&game=Poe2&preview=true)
+3. Enable the [
+   `poe2-prodigy-FilterSoundPack` module](https://www.filterblade.xyz/?profile=Wik%C3%BClicious%236054&saveState=XNZHG64CQQHYIM&isPreset=true&game=Poe2&preview=true)
    on [www.FilterBlade.xyz](https://www.filterblade.xyz) when **creating** or **editing** your item filters.
 
 ## 📜 Using modules in FilterBlade
@@ -31,12 +30,10 @@ as
 2. Load an existing item filter or start creating a new one.
 3. Open the Modules dialog by clicking on the `MODULES` button on the filter overview site.
    <img src="/assets/module-step3.png" width="384"/>
-4. Locate the module you want to use (e.g. search for "poe2-prodigy-FilterSoundPack").
+4. Locate the module (e.g. by searching for "prodigy" in the `Public` section) and click on `Add` and `Apply` to enable it.
    <img src="/assets/module-step4-5.png" width="384"/>
-5. Enable the module by clicking on `Add` and `Apply`. 
-6. Continue editing or save your filter as usual.
-7. Download or sync the updated filter for use in Path of Exile 2.
-
+5. Continue editing or save your filter as usual.
+6. Download or sync the updated filter for use in Path of Exile 2.
 
 ---
 
