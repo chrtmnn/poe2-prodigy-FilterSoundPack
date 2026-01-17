@@ -10,22 +10,20 @@ as
 
 <p align="center">
     <a class="untouched" href="https://github.com/chrtmnn/poe2-prodigy-FilterSoundPack/releases/latest">
-        <img src="https://img.shields.io/badge/download%20latest%20release-0.0.5--rc.20-701818?style=for-the-badge" alt="Download Latest Release">
+        <img src="https://img.shields.io/badge/download%20latest%20release-0.0.5--rc.21-701818?style=for-the-badge" alt="Download Latest Release">
     </a><br />
     <img alt="/poe2-prodigy-FilterSoundPack" src="/assets/poe2-prodigy-FilterSoundPack.png?raw=true" height="256" width="256"/><br />
 </p>
 
 ## 🚀 Quick Start
 
-1. Download and extract the **[latest release](https://github.com/chrtmnn/poe2-prodigy-FilterSoundPack/releases/latest)
-   ** from
-   the
-   `▶ Assets` section.
+1. [Download](https://github.com/chrtmnn/poe2-prodigy-FilterSoundPack/releases/latest) and extract the latest release
+   located in the `▶ Assets` section.
 2. Run `install.bat`, or copy the `sfx` folder manually into your Path of Exile 2 settings directory (_default:_
    `%USERPROFILE%\Documents\My Games\Path of Exile 2`).
 3. Enable the [
    `poe2-prodigy-FilterSoundPack` module](https://www.filterblade.xyz/?profile=Wik%C3%BClicious%236054&saveState=XNZHG64CQQHYIM&isPreset=true&game=Poe2&preview=true)
-   on [www.FilterBlade.xyz](https://www.filterblade.xyz) when **creating** or **editing** your item filters.
+   on [FilterBlade](https://www.filterblade.xyz) when **creating** or **editing** your item filters.
 
 ## 📜 Using modules in FilterBlade
 
