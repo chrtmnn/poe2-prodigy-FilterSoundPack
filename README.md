@@ -10,7 +10,7 @@ as
 
 <p align="center">
     <a class="untouched" href="https://github.com/chrtmnn/poe2-prodigy-FilterSoundPack/releases/latest">
-        <img src="https://img.shields.io/badge/download%20latest%20release-0.0.5-rc.19-701818?style=for-the-badge" alt="Download Latest Release">
+        <img src="https://img.shields.io/badge/download%20latest%20release-0.0.5--rc.20-701818?style=for-the-badge" alt="Download Latest Release">
     </a><br />
     <img alt="/poe2-prodigy-FilterSoundPack" src="/assets/poe2-prodigy-FilterSoundPack.png?raw=true" height="256" width="256"/><br />
 </p>
