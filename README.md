@@ -1,5 +1,5 @@
 ![FilterBlade Module](https://img.shields.io/badge/FilterBlade-ready-brightgreen)
-![Path of Exile 2](https://img.shields.io/badge/Path%20of%20Exile%202-Filter%20Sounds-5d000a)
+![Path of Exile 2](https://img.shields.io/badge/Path%20of%20Exile%202-Filter%20Sounds-701818)
 ![PC](https://img.shields.io/badge/Platform-PC-blue)
 
 # The Prodigy FilterSoundPack for Path of Exile 2
@@ -10,7 +10,7 @@ as
 
 <p align="center">
     <a class="untouched" href="https://github.com/chrtmnn/poe2-prodigy-FilterSoundPack/releases/latest">
-        <img src="https://img.shields.io/badge/download%20soundpack%20now!-5d000a?style=for-the-badge" alt="Download Latest Release">
+        <img src="https://img.shields.io/badge/download%20latest%20release-0.0.5-rc.19-701818?style=for-the-badge" alt="Download Latest Release">
     </a><br />
     <img alt="/poe2-prodigy-FilterSoundPack" src="/assets/poe2-prodigy-FilterSoundPack.png?raw=true" height="256" width="256"/><br />
 </p>
