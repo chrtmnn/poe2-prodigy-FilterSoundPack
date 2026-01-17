@@ -1,5 +1,5 @@
 ![FilterBlade Module](https://img.shields.io/badge/FilterBlade-ready-brightgreen)
-![Path of Exile 2](https://img.shields.io/badge/Path%20of%20Exile%202-Filter%20Sounds-purple)
+![Path of Exile 2](https://img.shields.io/badge/Path%20of%20Exile%202-Filter%20Sounds-5d000a)
 ![PC](https://img.shields.io/badge/Platform-PC-blue)
 
 # The Prodigy FilterSoundPack for Path of Exile 2
@@ -8,13 +8,17 @@
 as
 [module for Neversink's FilterBlade](https://www.filterblade.xyz/?profile=Wik%C3%BClicious%236054&saveState=XNZHG64CQQHYIM&isPreset=true&game=Poe2&preview=true).
 
-<p align="center"><img alt="/poe2-prodigy-FilterSoundPack" src="/assets/poe2-prodigy-FilterSoundPack.png?raw=true" width="256"/></p>
-
----
+<p align="center">
+    <a class="untouched" href="https://github.com/chrtmnn/poe2-prodigy-FilterSoundPack/releases/latest">
+        <img src="https://img.shields.io/badge/download%20soundpack%20now!-5d000a?style=for-the-badge" alt="Download Latest Release">
+    </a><br />
+    <img alt="/poe2-prodigy-FilterSoundPack" src="/assets/poe2-prodigy-FilterSoundPack.png?raw=true" height="256" width="256"/><br />
+</p>
 
 ## 🚀 Quick Start
 
-1. Download and extract the **[latest release](https://github.com/chrtmnn/poe2-prodigy-FilterSoundPack/releases)** from
+1. Download and extract the **[latest release](https://github.com/chrtmnn/poe2-prodigy-FilterSoundPack/releases/latest)
+   ** from
    the
    `▶ Assets` section.
 2. Run `install.bat`, or copy the `sfx` folder manually into your Path of Exile 2 settings directory (_default:_
