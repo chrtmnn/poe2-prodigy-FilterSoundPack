@@ -2,7 +2,7 @@
 ![Path of Exile 2](https://img.shields.io/badge/Path%20of%20Exile%202-Filter%20Sounds-701818)
 ![PC](https://img.shields.io/badge/Platform-PC-blue)
 
-# The Prodigy FilterSoundPack for Path of Exile 2
+# The Prodigy FilterSoundPack for PoE2
 
 🏷️ Ready to use
 as
@@ -10,9 +10,9 @@ as
 
 <p align="center">
     <a class="untouched" href="https://github.com/chrtmnn/poe2-prodigy-FilterSoundPack/releases/latest">
-        <img src="https://img.shields.io/badge/download%20latest%20release-0.0.5--rc.21-701818?style=for-the-badge" alt="Download Latest Release">
+        <img src="https://img.shields.io/badge/download%20latest%20release-0.0.5--rc.24-701818?style=for-the-badge" alt="Download Latest Release">
     </a><br />
-    <img alt="/poe2-prodigy-FilterSoundPack" src="/assets/poe2-prodigy-FilterSoundPack.png?raw=true" height="256" width="256"/><br />
+    <img alt="/poe2-prodigy-FilterSoundPack" src="/img/poe2-prodigy-FilterSoundPack.png?raw=true" height="256" width="256"/><br />
 </p>
 
 ## 🚀 Quick Start
@@ -31,10 +31,10 @@ as
    in your web browser.
 2. Load an existing item filter or start creating a new one.
 3. Open the Modules dialog by clicking on the `MODULES` button on the filter overview site.<br />
-   <img src="/assets/module-step3.png" width="384"/>
+   <img src="/img/module-step3.png" width="384"/>
 4. Locate the module (e.g. by searching for "prodigy" in the `Public` section) and click on `Add` and `Apply` to enable
    it.<br/>
-   <img src="/assets/module-step4-5.png" width="384"/>
+   <img src="/img/module-step4-5.png" width="384"/>
 5. Continue editing or save your filter as usual.
 6. Download or sync the updated filter for use in Path of Exile 2.
 
